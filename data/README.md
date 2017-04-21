@@ -11,7 +11,7 @@ Arrowheads collected from the [Portable Antiquities Scheme](https://finds.org.uk
 ## aircraft_orkney.zip
 Aircraft crash records in Orkney islands from 1914-1918 and 1939-1945. The original information was compiled by the [Adair-Whitaker project](https://canmore.org.uk/project/935283), a partnership between Historic Scotland and RCAHMS[^1].
 
-* downloaded from: [Canmore](https://canmore.org.uk/site/search/result?SITETYPE=1785&COUNCIL=330) *
+* downloaded from: [Canmore](https://canmore.org.uk/site/search/result?SITETYPE=1785&COUNCIL=330)
 
 ### used in:
 - [Loading and visualizing Shapefiles in R](http://research.shca.ed.ac.uk/past-by-numbers/2017/04/19/loading-and-visualizing-shapefiles-in-r/)
@@ -20,7 +20,7 @@ Aircraft crash records in Orkney islands from 1914-1918 and 1939-1945. The origi
 
 This is a list of 9 uncalibrated C14 dates from the awesome Maes Howe cairn in Orkney island. It is part of the Scottish Radiocarbon Database.
 
-* downloaded from: [Canmore](https://canmore.org.uk/c14index/2094) *
+* downloaded from: [Canmore](https://canmore.org.uk/c14index/2094)
 
 ### used in:
 - [Calibrating C14 dates](http://research.shca.ed.ac.uk/past-by-numbers/2017/04/12/calibrating-c14-dates/)
