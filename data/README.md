@@ -1,4 +1,12 @@
 
+## roman_camps.zip
+
+Roman temporary camps in Scotland. Original dataset from Canmore Thesaurus.
+
+* downloaded from: [Canmore](https://canmore.org.uk/site/search/result?SITETYPE=364)
+
+### used in:
+- [Hexmaps in QGIS](http://research.shca.ed.ac.uk/past-by-numbers/2017/04/21/hexes-in-qgis/)
 
 ## arrowheads.csv
 Arrowheads collected from the [Portable Antiquities Scheme](https://finds.org.uk/).
