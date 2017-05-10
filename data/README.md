@@ -1,4 +1,11 @@
 
+## lba_eia.csv
+
+Geographical features of late prehistory settlements in NE Iberia. Original dataset collected by Maria Yubero-Gómez for:
+Yubero-Gómez, M., Rubio-Campillo, X., López-Cachero, F.J. and Esteve-Gràcia, X., 2015. Mapping changes in late prehistoric landscapes: a case study in the Northeastern Iberian Peninsula. *Journal of Anthropological Archaeology*, 40, pp.123-134 - [https://doi.org/10.1016/j.jaa.2015.07.002](https://doi.org/10.1016/j.jaa.2015.07.002)
+
+* downloaded from: [github](https://github.com/xrubio/models/tree/master/changesLBA_EIA)
+
 ## roman_camps.zip
 
 Roman temporary camps in Scotland. Original dataset from Canmore Thesaurus.
