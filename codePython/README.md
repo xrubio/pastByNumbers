@@ -16,5 +16,5 @@ All books were downloaded from the Project Gutenberg: https://en.wikipedia.org/w
 - *On the Origin of Species* by Charles Darwin https://www.gutenberg.org/ebooks/1228
 - *Frankenstein; or the Modern Prometheus* by Mary Shelley https://www.gutenberg.org/ebooks/84
 
-
+*codePython.zip* contains the books as text files and the tutorial in pdf format.
 
