@@ -33,7 +33,7 @@ def countWords(listOfWords):
     return uniqueWords            
        
 # parameters
-bookFile = "/home/xrubio/xrubio@gmail.com/presentacions/tutorial_python/books/frankenstein.txt"
+bookFile = "../books/frankenstein.txt"
 
 # top 50 frequent words
 numFrequentWords = 40
